@@ -1,0 +1,8 @@
+tqdm
+matplotlib
+pandas
+tensorboardX
+pyarrow
+fastparquet
+scipy
+scikit-learn

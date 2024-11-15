@@ -1,0 +1,8 @@
+{
+    "solver": "SASRecPPSolver",
+    "dataset": "ml1m",
+    "train": {
+        "epoch": 4800,
+        "patience": 800
+    }
+}
